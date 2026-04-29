@@ -1,10 +1,9 @@
-name: Udemy Pro Coupon Bot
+name: Udemy Pro Bot
 
 on:
   schedule:
-    # تشغيل تلقائي كل 15 دقيقة
     - cron: '*/15 * * * *'
-  workflow_dispatch: # يسمح لك بالتشغيل اليدوي للتجربة
+  workflow_dispatch:
 
 jobs:
   build:
@@ -20,16 +19,18 @@ jobs:
 
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install feedparser requests deep-translator beautifulsoup4
 
       - name: Run Udemy Bot
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
         run: python udemy_bot.py
 
-      - name: Save sent courses state
+      - name: Save state
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add sent_courses.txt || echo "No changes to commit"
-          git commit -m "Update sent courses [skip ci]" || echo "No changes to commit"
+          git add sent_courses.txt || echo "No changes"
+          git commit -m "Update state [skip ci]" || echo "No changes"
           git push
