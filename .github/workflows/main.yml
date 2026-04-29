@@ -1,36 +1,26 @@
-name: Udemy Pro Bot
-
+name: Udemy Coupons Bot
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
-
+permissions:
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-
-      - name: Install dependencies
-        run: |
-          pip install feedparser requests deep-translator beautifulsoup4
-
-      - name: Run Udemy Bot
-        env:
-          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
-          CHAT_ID: ${{ secrets.CHAT_ID }}
-        run: python udemy_bot.py
-
-      - name: Save state
-        run: |
+      - run: pip install feedparser requests deep-translator beautifulsoup4
+      - run: python udemy_bot.py
+      - run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add sent_courses.txt || echo "No changes"
-          git commit -m "Update state [skip ci]" || echo "No changes"
-          git push
+          git add sent_coupons.txt || true
+          git diff --staged --quiet || git commit -m "Update sent coupons [skip ci]"
+          git pull origin main --rebase || true
+          git push || true
