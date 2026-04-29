@@ -1,4 +1,0 @@
-feedparser
-requests
-deep-translator
-beautifulsoup4
