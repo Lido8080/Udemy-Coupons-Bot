@@ -43,3 +43,8 @@ https://www.discudemy.com/development-tools/vibe-coding-for-coders-to-build-ente
 https://www.discudemy.com//full-stack-development-for-beginner-react-nextjs-nodejs
 https://www.discudemy.com/marketing/conversion-rate-optimisation
 https://www.discudemy.com/business/startup-marketing
+https://www.discudemy.com/sql/complete-sql-course-become-an-expert-in-database-management
+https://www.discudemy.com//machine-learning-ai-neural-networks-a-complete-course
+https://www.discudemy.com//chatgpt-masterclass-the-complete-guide-u
+https://www.discudemy.com/python/python-data-analysis-matplotlib-seaborn-pandas-numpy
+https://www.discudemy.com//perplexity-ai-masterclass-ai-search-and-research
