@@ -124,3 +124,11 @@ https://www.discudemy.com/business/mastering-perplexity-ai-smarter-research-bett
 https://www.discudemy.com//pivot-tables-microsoft-excel-pivot-table-and-data-analysis
 https://www.discudemy.com//microsoft-excel-data-analysis-management-and-visualization
 https://www.discudemy.com//microsoft-excel-masterclass-learn-excel-step-by-step
+https://www.discudemy.com/python/python-for-researchers
+https://www.discudemy.com/django/mastering-django
+https://www.discudemy.com/python/programming-for-scientific-research
+https://www.discudemy.com/chinese/r-for-research
+https://www.discudemy.com//ai-for-geospatial-analysis
+https://www.discudemy.com//python-for-ai
+https://www.discudemy.com//geospatial-ai-deep-learning
+https://www.discudemy.com/python/essentials-pyqgis
