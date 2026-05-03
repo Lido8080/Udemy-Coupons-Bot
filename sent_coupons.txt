@@ -252,3 +252,7 @@ https://www.discudemy.com/academic/classroom-management-with-child-psychology-sa
 https://www.discudemy.com/health-fitness/handling-sensitive-information-in-caregiving
 https://www.discudemy.com/business/pgd-in-scom
 https://www.discudemy.com//ai-tools-for-non-tech-creators
+https://www.discudemy.com/personal-development/timeboxing-for-boosting-productivity-efficiency
+https://www.discudemy.com/network-security/configura-un-vps-digitalocean-con-ubuntu-de-0-a-100
+https://www.discudemy.com/php/arquitectura-web-profesional-php-y-mysql-con-mvc
+https://www.discudemy.com/php/programacion-web-php-mvc-poo-y-mysql-tienda-online
