@@ -256,3 +256,5 @@ https://www.discudemy.com/personal-development/timeboxing-for-boosting-productiv
 https://www.discudemy.com/network-security/configura-un-vps-digitalocean-con-ubuntu-de-0-a-100
 https://www.discudemy.com/php/arquitectura-web-profesional-php-y-mysql-con-mvc
 https://www.discudemy.com/php/programacion-web-php-mvc-poo-y-mysql-tienda-online
+https://www.discudemy.com/php/css-bootstrap-javascript-and-php-stack-complete-course
+https://www.discudemy.com/python/python-complete-course-for-beginners-h
