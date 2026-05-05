@@ -312,3 +312,11 @@ https://www.discudemy.com/javascript/nextjs-build-dynamic-fast-scalable-web-appl
 https://www.discudemy.com/nosql/master-mongodb-cloud-based-nosql-database-management
 https://www.discudemy.com/sql/the-complete-sql-bootcamp-a-step-by-step-approach
 https://www.discudemy.com/java/java-programming-masterclass-beginner-to-master
+https://www.discudemy.com/graphic-design/adobe-animate-a-comprehensive-guide-for-beginners-to-pro
+https://www.discudemy.com/video-design/capcut-video-editing-for-social-media-reels-shorts-videos
+https://www.discudemy.com/3d-model/master-the-blender-for-game-art-film-design
+https://www.discudemy.com/marketing/social-media-mastery-comprehensive-social-media-success
+https://www.discudemy.com/python/complete-guide-to-python-data-analysis-with-real-datasets
+https://www.discudemy.com/python/the-complete-python-developer-from-zero-to-mastery
+https://www.discudemy.com/csharp/the-ultimate-c-bootcamp-build-modern-web-api-apps
+https://www.discudemy.com/sql/mastering-mysql-build-and-manage-databases-like-a-pro
