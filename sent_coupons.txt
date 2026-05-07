@@ -431,3 +431,5 @@ https://www.discudemy.com/python/construccion-de-aplicaciones-web-con-python-fla
 https://www.discudemy.com/personal-development/el-proceso-administrativo-para-triunfar-y-ser-feliz
 https://www.discudemy.com/python/python-per-lapprendimento-profondo-costruire-reti-neurali
 https://www.discudemy.com/nosql/frameworks-indices-transacciones-y-mucho-mas-con-mongodb
+https://www.discudemy.com/network-security/introduccion-a-informatica-forense-fundamentos-y-practica
+https://www.discudemy.com/personal-development/concentration-ultime
