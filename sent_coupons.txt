@@ -428,3 +428,6 @@ https://www.discudemy.com/network-security/ciberseguridad-protege-informacion-at
 https://www.discudemy.com/marketing/growth-hacking-scarcity-marketing-in-the-digital-age
 https://www.discudemy.com/business/financial-accounting-bookkeeping-beginners-to-advanced
 https://www.discudemy.com/python/construccion-de-aplicaciones-web-con-python-flask-y-sqlite
+https://www.discudemy.com/personal-development/el-proceso-administrativo-para-triunfar-y-ser-feliz
+https://www.discudemy.com/python/python-per-lapprendimento-profondo-costruire-reti-neurali
+https://www.discudemy.com/nosql/frameworks-indices-transacciones-y-mucho-mas-con-mongodb
