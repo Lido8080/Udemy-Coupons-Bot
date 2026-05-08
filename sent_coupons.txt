@@ -433,3 +433,4 @@ https://www.discudemy.com/python/python-per-lapprendimento-profondo-costruire-re
 https://www.discudemy.com/nosql/frameworks-indices-transacciones-y-mucho-mas-con-mongodb
 https://www.discudemy.com/network-security/introduccion-a-informatica-forense-fundamentos-y-practica
 https://www.discudemy.com/personal-development/concentration-ultime
+https://www.discudemy.com//detecting-car-speed-empty-parking-spot-with-pytorch-cnn
